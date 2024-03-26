@@ -65,8 +65,8 @@ public class GameResultManager : MonoBehaviour
 
     void ChangeScene()
     {
-        // Change scene to a different scene (you need to specify the scene name or index)
-        SceneManager.LoadScene("NextSceneName");
+        
+        SceneManager.LoadScene(0);
     }
 }
 

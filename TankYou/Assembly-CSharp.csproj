@@ -60,6 +60,8 @@
   <ItemGroup>
     <Compile Include="Assets\Code\Part1\Enemy\EnemyAIBT.cs" />
     <Compile Include="Assets\Code\Part1\Player\FlagControllerPlayer.cs" />
+    <Compile Include="Assets\Assets\Part 2\StartButtonScript.cs" />
+    <Compile Include="Assets\Assets\Part 2\QuitButtonScript.cs" />
     <Compile Include="Assets\Code\Part1\Player\PlayerInfo.cs" />
     <Compile Include="Assets\Code\Part1\RunGame.cs" />
     <Compile Include="Assets\Code\Part1\Timer.cs" />

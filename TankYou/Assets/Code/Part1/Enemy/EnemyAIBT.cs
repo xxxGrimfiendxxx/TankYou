@@ -22,8 +22,8 @@ public class EnemyAIBT : MonoBehaviour
     public Transform respawnPoint; // Respawn point for the enemy
     public enum State
     {
-        Shoot,
         Retrieve,
+        Shoot,
         Deposit
     }
 
